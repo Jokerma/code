@@ -18,3 +18,4 @@ def monitor_dir(directory):
     notifier.loop()
 
 monitor_dir("./a")
+print "hello"
